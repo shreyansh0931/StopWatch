@@ -1,0 +1,48 @@
+/*main body*/
+body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    text-align: center;
+    background-color:aliceblue;
+    align-items: center;
+}
+
+.container{
+    margin-top: 100%;
+}
+/* Heading */
+h1{
+    margin-bottom: 20px;
+    margin-top: 28px;
+}
+/* Time Section */
+.stopwatch{
+    font-size: 50px;
+    padding: 30px;
+    background-color:white;
+    border: 1.5px solid black;
+    border-radius: 10px;
+
+}
+/*   Button Section*/
+
+.button{
+    margin-top: 25px;
+
+}
+button{
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 8px;
+    border: none;
+    border-radius: 8px;
+    background-color:007bff;
+    color:white;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: 0056b3;
+}
+
